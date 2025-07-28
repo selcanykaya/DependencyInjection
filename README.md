@@ -7,5 +7,5 @@ Bu küçük proje, **Dependency Injection (DI)** mantığını anlamak için haz
 - **ITeacher** interface ve **Teacher** sınıfı.  
 - **ClassRoom** sınıfı (constructor injection kullanıyor).  
 - **Minimal API + Swagger (Swashbuckle)** ile kolay test imkanı.  
-- **Scoped service** ile her HTTP request için ayrı instance.
+
 
